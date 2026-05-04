@@ -14,6 +14,8 @@ I like going down rabbit holes and digging up data driven insights. I'm curious 
 
 Currently, I study math, data science, and business at NYU. I worked as an Actuarial Intern with Lewis & Ellis year and will be working as a Data Strategy Intern with Healthcare Risk Advisors this summer.
 
+In my free time, I listen to music, play sports, work out, and hang out with friends. I love traveling, exploring new places, and taking in as much of the world as I can.
+
 ### Skills
 
 I pick up on the fundamentals of new languages and tools quickly if neccessary, but I mostly use
