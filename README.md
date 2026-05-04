@@ -1,10 +1,10 @@
 ## Hi! I'm Ryan
 
+![](./fine.jpg){width=200}
+
 > What I cannot create, I do not understand
 >
 > Richard Feynman
-
-![](./fine.jpg)
 
 ### About me
 
