@@ -4,6 +4,8 @@
 >
 > Richard Feynman
 
+![](./fine.jpg)
+
 ### About me
 
 I like going down rabbit holes and digging up data driven insights. I'm curious by nature and constantly learning.
