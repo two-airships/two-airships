@@ -1,6 +1,6 @@
 ## Hi! I'm Ryan
 
-![](./fine.jpg){width=50}
+![](./fine.jpg | width = 100)
 
 > What I cannot create, I do not understand
 >
