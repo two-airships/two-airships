@@ -1,12 +1,12 @@
 ## Hi! I'm Ryan
 
 <p align="center">
-<img src="./fine.jpg" width="600">
+<img src="./fine.jpg" width="750">
 </p>
 
-> What I cannot create, I do not understand
+> What matters isn’t if people are good or bad. What matters is if they’re trying to be better today than they were yesterday.
 >
-> Richard Feynman
+> Michael, The Good Place (Season 4, Episode 12)
 
 ### About me
 
