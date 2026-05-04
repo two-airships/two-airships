@@ -1,16 +1,31 @@
-## Hi there 👋
+## Hi! I'm Ryan
 
-<!--
-**two-airships/two-airships** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> What I cannot create, I do not understand
+>
+> - Richard Feynman
 
-Here are some ideas to get you started:
+### About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I like going down rabbit holes and digging up data driven insights. I'm curious by nature and constantly learning.
+
+Currently, I study math, data science, and business at NYU. I worked as an Actuarial Intern with Lewis & Ellis year and will be working as a Data Strategy Intern with Healthcare Risk Advisors this summer.
+
+### Skills
+
+I pick up on the fundamentals of new languages and tools quickly if neccessary, but I mostly use
+
+#### Languages
+  - Python
+  - Java
+  - SQL
+  - BASH/ZSH
+#### Tools
+  - NumPy
+  - Pandas
+  - Scikit-learn
+  - PyTorch
+  - Requests
+  - SQLAlchemy
+  - Beautiful Soup
+  - Surprise
+  - SciPy
