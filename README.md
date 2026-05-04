@@ -1,7 +1,6 @@
 ## Hi! I'm Ryan
 
-![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
-![](./fine.jpg | width = 100)
+<img src="./images/fine.jpg" width="300">
 
 > What I cannot create, I do not understand
 >
