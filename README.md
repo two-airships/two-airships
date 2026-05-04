@@ -1,6 +1,8 @@
 ## Hi! I'm Ryan
 
-<img src="./fine.jpg" width="300">
+<p align="center">
+<img src="./fine.jpg" width="600">
+</p>
 
 > What I cannot create, I do not understand
 >
